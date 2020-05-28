@@ -1,6 +1,6 @@
 ### Installation
 
-requires [Node.js](https://nodejs.org/) v4+ to run.
+requires [Node.js](https://nodejs.org/) to run.
 
 Install the dependencies and devDependencies
 
