@@ -5,7 +5,7 @@ requires [Node.js](https://nodejs.org/) v4+ to run.
 Install the dependencies and devDependencies
 
 ```sh
-$ cd dillinger
+$ cd puppeteer-demo
 $ npm install -d
 ```
 
