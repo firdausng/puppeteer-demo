@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "es2017",
+        "moduleResolution": "node",
+        "sourceMap": true,
+        "declaration": false,
+        "removeComments": false,
+        "noImplicitAny": false,
+        "outDir": "dist",
+        "typeRoots": [ "./node_modules/@types" ],
+        "types": ["node"],
+        "lib": ["es2015", "dom"]
+    },
+    "exclude": [
+        "node_modules",
+        "typescript"
+    ]
+  }
